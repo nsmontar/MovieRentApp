@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using MovieRentApp.Models.Entities;
 using MovieRentApp.Models.Entities.Base;
-//using MovieRentApp.Models.ViewModels;
+using MovieRentApp.Models.ViewModels;
 
 namespace MovieRentApp.Dal.EfStructures
 {
@@ -14,13 +14,13 @@ namespace MovieRentApp.Dal.EfStructures
         public DbSet<Movie> Movies { get; set; }
         public DbSet<User> Users { get; set; }
         public DbSet<Rental> Rentals { get; set; }
+        public DbSet<RentedMovies> RentedMovies { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            //modelBuilder.Query<CartRecordWithProductInfo>().ToView("CartRecordWithProductInfo", "Store");
             modelBuilder.Entity<User>(entity =>
             {
-                entity.HasIndex(e => e.EmailAddress).HasName("IX_Customers").IsUnique();
+                entity.HasIndex(e => e.EmailAddress).HasName("IX_Users").IsUnique();
             });
             modelBuilder.Entity<Rental>(entity =>
             {
