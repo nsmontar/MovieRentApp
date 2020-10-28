@@ -1,0 +1,15 @@
+D:\DotNet\KLISING d.o.o. - zadatak za provjeru tehničkih znanja\MovieRentAppV3\MovieRentApp.Dal\bin\Debug\netcoreapp3.1\MovieRentApp.Dal.deps.json
+D:\DotNet\KLISING d.o.o. - zadatak za provjeru tehničkih znanja\MovieRentAppV3\MovieRentApp.Dal\bin\Debug\netcoreapp3.1\MovieRentApp.Dal.runtimeconfig.json
+D:\DotNet\KLISING d.o.o. - zadatak za provjeru tehničkih znanja\MovieRentAppV3\MovieRentApp.Dal\bin\Debug\netcoreapp3.1\MovieRentApp.Dal.runtimeconfig.dev.json
+D:\DotNet\KLISING d.o.o. - zadatak za provjeru tehničkih znanja\MovieRentAppV3\MovieRentApp.Dal\bin\Debug\netcoreapp3.1\MovieRentApp.Dal.dll
+D:\DotNet\KLISING d.o.o. - zadatak za provjeru tehničkih znanja\MovieRentAppV3\MovieRentApp.Dal\bin\Debug\netcoreapp3.1\MovieRentApp.Dal.pdb
+D:\DotNet\KLISING d.o.o. - zadatak za provjeru tehničkih znanja\MovieRentAppV3\MovieRentApp.Dal\bin\Debug\netcoreapp3.1\MovieRentApp.Models.dll
+D:\DotNet\KLISING d.o.o. - zadatak za provjeru tehničkih znanja\MovieRentAppV3\MovieRentApp.Dal\bin\Debug\netcoreapp3.1\MovieRentApp.Models.pdb
+D:\DotNet\KLISING d.o.o. - zadatak za provjeru tehničkih znanja\MovieRentAppV3\MovieRentApp.Dal\obj\Debug\netcoreapp3.1\MovieRentApp.Dal.csprojAssemblyReference.cache
+D:\DotNet\KLISING d.o.o. - zadatak za provjeru tehničkih znanja\MovieRentAppV3\MovieRentApp.Dal\obj\Debug\netcoreapp3.1\MovieRentApp.Dal.AssemblyInfoInputs.cache
+D:\DotNet\KLISING d.o.o. - zadatak za provjeru tehničkih znanja\MovieRentAppV3\MovieRentApp.Dal\obj\Debug\netcoreapp3.1\MovieRentApp.Dal.AssemblyInfo.cs
+D:\DotNet\KLISING d.o.o. - zadatak za provjeru tehničkih znanja\MovieRentAppV3\MovieRentApp.Dal\obj\Debug\netcoreapp3.1\MovieRentApp.Dal.csproj.CoreCompileInputs.cache
+D:\DotNet\KLISING d.o.o. - zadatak za provjeru tehničkih znanja\MovieRentAppV3\MovieRentApp.Dal\obj\Debug\netcoreapp3.1\MovieRentApp.Dal.csproj.CopyComplete
+D:\DotNet\KLISING d.o.o. - zadatak za provjeru tehničkih znanja\MovieRentAppV3\MovieRentApp.Dal\obj\Debug\netcoreapp3.1\MovieRentApp.Dal.dll
+D:\DotNet\KLISING d.o.o. - zadatak za provjeru tehničkih znanja\MovieRentAppV3\MovieRentApp.Dal\obj\Debug\netcoreapp3.1\MovieRentApp.Dal.pdb
+D:\DotNet\KLISING d.o.o. - zadatak za provjeru tehničkih znanja\MovieRentAppV3\MovieRentApp.Dal\obj\Debug\netcoreapp3.1\MovieRentApp.Dal.genruntimeconfig.cache

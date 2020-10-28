@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "yi7D4a0mZAbEmESWjvtNyMeoBr+dgEh9Dm2McEI48JhpW1gH+mO8r2/bTJz/KcCNN75eHOZHOU+0+pIcOTT+Vg==",
+  "dgSpecHash": "WHivvaaeXT9DUTcWVwx0SZgIbHrrusoRDX0DQdCC5fJ9pqjPPIMFbVqM0fyX6RPe3RFBlig/XAJ62YjKBFlsvQ==",
   "success": true,
   "projectFilePath": "D:\\DotNet\\KLISING d.o.o. - zadatak za provjeru tehničkih znanja\\MovieRentAppV3\\MovieRentApp.Dal\\MovieRentApp.Dal.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\nsmon\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\nsmon\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\nsmon\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.entityframeworkcore\\2.1.1\\microsoft.entityframeworkcore.2.1.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.entityframeworkcore.abstractions\\2.1.1\\microsoft.entityframeworkcore.abstractions.2.1.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.entityframeworkcore.analyzers\\2.1.1\\microsoft.entityframeworkcore.analyzers.2.1.1.nupkg.sha512",
@@ -68,7 +69,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.net.sockets\\4.1.0\\system.net.sockets.4.1.0.nupkg.sha512",
     "C:\\Users\\nsmon\\.nuget\\packages\\system.objectmodel\\4.0.12\\system.objectmodel.4.0.12.nupkg.sha512",
     "C:\\Users\\nsmon\\.nuget\\packages\\system.reflection\\4.1.0\\system.reflection.4.1.0.nupkg.sha512",
-    "C:\\Users\\nsmon\\.nuget\\packages\\system.reflection.emit\\4.0.1\\system.reflection.emit.4.0.1.nupkg.sha512",
+    "C:\\Users\\nsmon\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\nsmon\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.0.1\\system.reflection.emit.ilgeneration.4.0.1.nupkg.sha512",
     "C:\\Users\\nsmon\\.nuget\\packages\\system.reflection.emit.lightweight\\4.0.1\\system.reflection.emit.lightweight.4.0.1.nupkg.sha512",
     "C:\\Users\\nsmon\\.nuget\\packages\\system.reflection.extensions\\4.0.1\\system.reflection.extensions.4.0.1.nupkg.sha512",

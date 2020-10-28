@@ -1,0 +1,9 @@
+D:\DotNet\KLISING d.o.o. - zadatak za provjeru tehničkih znanja\MovieRentAppV3\MovieRentApp.Models\bin\Debug\netcoreapp3.1\MovieRentApp.Models.deps.json
+D:\DotNet\KLISING d.o.o. - zadatak za provjeru tehničkih znanja\MovieRentAppV3\MovieRentApp.Models\bin\Debug\netcoreapp3.1\MovieRentApp.Models.dll
+D:\DotNet\KLISING d.o.o. - zadatak za provjeru tehničkih znanja\MovieRentAppV3\MovieRentApp.Models\bin\Debug\netcoreapp3.1\MovieRentApp.Models.pdb
+D:\DotNet\KLISING d.o.o. - zadatak za provjeru tehničkih znanja\MovieRentAppV3\MovieRentApp.Models\obj\Debug\netcoreapp3.1\MovieRentApp.Models.csprojAssemblyReference.cache
+D:\DotNet\KLISING d.o.o. - zadatak za provjeru tehničkih znanja\MovieRentAppV3\MovieRentApp.Models\obj\Debug\netcoreapp3.1\MovieRentApp.Models.AssemblyInfoInputs.cache
+D:\DotNet\KLISING d.o.o. - zadatak za provjeru tehničkih znanja\MovieRentAppV3\MovieRentApp.Models\obj\Debug\netcoreapp3.1\MovieRentApp.Models.AssemblyInfo.cs
+D:\DotNet\KLISING d.o.o. - zadatak za provjeru tehničkih znanja\MovieRentAppV3\MovieRentApp.Models\obj\Debug\netcoreapp3.1\MovieRentApp.Models.csproj.CoreCompileInputs.cache
+D:\DotNet\KLISING d.o.o. - zadatak za provjeru tehničkih znanja\MovieRentAppV3\MovieRentApp.Models\obj\Debug\netcoreapp3.1\MovieRentApp.Models.dll
+D:\DotNet\KLISING d.o.o. - zadatak za provjeru tehničkih znanja\MovieRentAppV3\MovieRentApp.Models\obj\Debug\netcoreapp3.1\MovieRentApp.Models.pdb

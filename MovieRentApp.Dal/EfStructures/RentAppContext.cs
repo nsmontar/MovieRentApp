@@ -24,8 +24,7 @@ namespace MovieRentApp.Dal.EfStructures
             });
             modelBuilder.Entity<Rental>(entity =>
             {
-                entity.Property(e => e.RentalDate).HasDefaultValueSql("getdate()");
-                //entity.Property(e => e.ReturnDate).HasDefaultValueSql("getdate()");
+                entity.Property(e => e.RentalDate).HasColumnType("datetime").HasDefaultValueSql("getdate()");
             });
         }
     }
