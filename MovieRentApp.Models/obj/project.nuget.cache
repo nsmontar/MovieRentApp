@@ -1,13 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "1ZVQVzF82yVSXyk9HcZkvjiLOuNpRmNInpnDvRl1TbgLzUM0+ZmmFOGm80wBlU7sIY1ytPAqMQlPTQLq573EaQ==",
+  "dgSpecHash": "IYYciYwxJgGwSG8d6jB4gCYVwGodq9SQFDA+roDGjCYCQ/wik4wVmR3sV3GkStT0Gf8Az+Wmb2RDlr5fUoaeFQ==",
   "success": true,
   "projectFilePath": "D:\\DotNet\\KLISING d.o.o. - zadatak za provjeru tehničkih znanja\\MovieRentAppV3\\MovieRentApp.Models\\MovieRentApp.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nsmon\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\nsmon\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.9\\microsoft.aspnetcore.jsonpatch.3.1.9.nupkg.sha512",
+    "C:\\Users\\nsmon\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.9\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.9.nupkg.sha512",
     "C:\\Users\\nsmon\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.entityframeworkcore.abstractions\\2.1.1\\microsoft.entityframeworkcore.abstractions.2.1.1.nupkg.sha512",
     "C:\\Users\\nsmon\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\nsmon\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "C:\\Users\\nsmon\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
   ],
   "logs": []
