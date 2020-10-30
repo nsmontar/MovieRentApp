@@ -4,5 +4,83 @@
         <name>MovieRentApp.Service</name>
     </assembly>
     <members>
+        <member name="M:MovieRentApp.Service.Controllers.MovieController.Get">
+            <summary>
+            Get all movies.
+            </summary>
+            <remarks>
+            Sample request:
+                GET /api/Movie
+            </remarks>
+            <returns>List of all movies</returns>
+            <response code="200">Returns movies.</response>
+            <response code="500">Returned when there was an error in the repo.</response>
+        </member>
+        <member name="M:MovieRentApp.Service.Controllers.MovieController.Get(System.Int32)">
+            <summary>
+            Gets a single movie.
+            </summary>
+            <param name="id">Primary Key of the movie to retrieve</param>
+            <remarks>
+            Sample request:
+                GET /api/Movie/5
+            </remarks>
+            <returns>Single Movie</returns>
+            <response code="200">Returns single Movie.</response>
+            <response code="404">Returned when Movie with specific id doesn't exist.</response>
+            <response code="500">Returned when there was an error in the repo.</response>
+        </member>
+        <member name="M:MovieRentApp.Service.Controllers.MovieController.GetRentalsForMovie(MovieRentApp.Dal.Repos.Interfaces.IRentalRepo,System.Int32)">
+            <summary>
+            Gets all rentals for a single movie.
+            </summary>
+            <param name="movieId">Primary Key of the movie to retrieve</param>
+            <remarks>
+            Sample request:
+                GET /api/Movie/5/rentals
+            </remarks>
+            <returns>List of all rentals of a movie</returns>
+            <response code="200">Returns all rentals of a single movie.</response>
+            <response code="500">Returned when there was an error in the repo.</response>
+        </member>
+        <member name="M:MovieRentApp.Service.Controllers.UserController.Get">
+            <summary>
+            Get all users.
+            </summary>
+            <remarks>
+            Sample request:
+                GET /api/User
+            </remarks>
+            <returns>List of all users</returns>
+            <response code="200">Returns users.</response>
+            <response code="500">Returned when there was an error in the repo.</response>
+        </member>
+        <member name="M:MovieRentApp.Service.Controllers.UserController.Get(System.Int32)">
+            <summary>
+            Gets a single user.
+            </summary>
+            <param name="id">Primary Key of the user to retrieve</param>
+            <remarks>
+            Sample request:
+                GET /api/Users/5
+            </remarks>
+            <returns>Single User</returns>
+            <response code="200">Returns single user.</response>
+            <response code="404">Returned when user with specific id doesn't exist.</response>
+            <response code="500">Returned when there was an error in the repo.</response>
+        </member>
+        <member name="M:MovieRentApp.Service.Controllers.UserController.GetRentalsForUser(MovieRentApp.Dal.Repos.Interfaces.IRentalRepo,System.Int32)">
+            <summary>
+            Gets all rentals for a single user.
+            </summary>
+            <param name="UserId">Primary Key of the user to retrieve</param>
+            <remarks>
+            Sample request:
+                GET /api/Users/5/rentals
+            </remarks>
+            <returns>List of all rentals for a single user</returns>
+            <response code="200">Returns all rentals for a single user.</response>
+            <response code="500">Returned when there was an error in the repo.</response>
+        </member>
     </members>
 </doc>
