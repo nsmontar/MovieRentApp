@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using MovieRentApp.Models.Entities;
 
@@ -53,6 +54,42 @@ namespace MovieRentApp.Dal.Initialization
                 EmailAddress = "SarahJPerkins@jourrapide.com",
                 Password = "Quai8phei"
             }
+        };
+        public static IEnumerable<Rental> GetAllRentalRecords() => new List<Rental>
+        {
+            new Rental
+            {
+                MovieId = 1,
+                UserId = 1,
+                RentalDate = DateTime.Now.AddDays(-10),
+                ReturnDate = DateTime.Now.AddDays(-5),
+            },
+            new Rental
+            {
+                MovieId = 1,
+                UserId = 2,
+                RentalDate = DateTime.Now.AddDays(-1),
+            },
+            new Rental
+            {
+                MovieId = 2,
+                UserId = 3,
+                RentalDate = DateTime.Now.AddDays(-15),
+            },
+            new Rental
+            {
+                MovieId = 3,
+                UserId = 2,
+                RentalDate = DateTime.Now.AddDays(-4),
+                ReturnDate = DateTime.Now.AddDays(-1),
+            },
+            new Rental
+            {
+                MovieId = 3,
+                UserId = 1,
+                RentalDate = DateTime.Now.AddDays(-9),
+                ReturnDate = DateTime.Now.AddDays(-8),
+            },            
         };
     }
 }

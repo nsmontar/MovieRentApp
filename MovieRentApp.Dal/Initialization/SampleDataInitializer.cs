@@ -42,6 +42,11 @@ namespace MovieRentApp.Dal.Initialization
                 context.Users.AddRange(SampleData.GetAllUserRecords());
                 context.SaveChanges();
             }
+            if (!context.Rentals.Any())
+            {
+                context.Rentals.AddRange(SampleData.GetAllRentalRecords());
+                context.SaveChanges();
+            }
         }
         public static void InitializeData(RentAppContext context)
         {
